@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋 I'm Raphael Andrei G. Latoy 😄
 
-<!--
-**raphaelatuuuuy/raphaelatuuuuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🌟
+Hi! I'm **Raphael Andrei G. Latoy**, but you can call me Raphael/Lats! 👨‍💻  
+- **Pronouns**: He/Him 🙋‍♂️  
+- **Age**: 20 years young! 🎉  
+- **Hobbies**:  
+  - Manga enthusiast 📚  
+  - Movie lover 🎬  
+  - Sweet tooth 🍬🍩
 
-Here are some ideas to get you started:
+## Let's Connect! 🌍  
+Feel free to reach out to me on social media:  
+- **LinkedIn**: [raphaelatuuuuy](https://www.linkedin.com/in/raphaelatuuuuy) 💼  
+- **Facebook**: [raphael.latoy](https://www.facebook.com/raphael.latoy) 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! 🙏 Looking forward to collaborating with you! ✨  
+Let's create something amazing together! 🚀
