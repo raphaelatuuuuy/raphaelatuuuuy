@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Raphael Andrei G. Latoy 😄
+# Hey there! 👋 
 
 Hi! I'm **Raphael Andrei G. Latoy**, but you can call me Raphael. I'm a passionate IT student currently studying at the Polytechnic University of the Philippines 🏫
 
